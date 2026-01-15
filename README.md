@@ -287,7 +287,7 @@ aep-ai-center/
 ## 📝 License
 
 Distributed under the **MIT License**. 
-Copyright (c) 2024 **Shubham Bhiwapurkar**.
+Copyright (c) 2024 **Piyush kumar**.
 
 ---
 
