@@ -140,7 +140,7 @@ GEMINI_MODEL=gemini-3-pro
 
 ```bash
 # Clone the repository
-git clone https://github.com/shubhambhiwapurkar/aep-ai-center.git
+
 cd aep-ai-center
 
 # Install all dependencies (backend + frontend)
